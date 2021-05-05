@@ -1,0 +1,47 @@
+Warning
+: SimpleXMLElement::__construct(): Entity: line 1: parser error : Opening and ending tag mismatch: br line 1 and a in
+C:\program_files\laragon\www\Plantilla\wp-content\plugins\link-juice-optimizer\public\class-link-juice-optimizer-public.php
+on line
+345
+
+
+Warning
+: SimpleXMLElement::__construct(): dad/" rel="nofollow noopener noreferrer" >Política Privacidad Ofuscada<br></a> in
+C:\program_files\laragon\www\Plantilla\wp-content\plugins\link-juice-optimizer\public\class-link-juice-optimizer-public.php
+on line
+345
+
+
+Warning
+: SimpleXMLElement::__construct(): ^ in
+C:\program_files\laragon\www\Plantilla\wp-content\plugins\link-juice-optimizer\public\class-link-juice-optimizer-public.php
+on line
+345
+
+
+Warning
+: SimpleXMLElement::__construct(): Entity: line 1: parser error : EndTag: '</' not found in
+C:\program_files\laragon\www\Plantilla\wp-content\plugins\link-juice-optimizer\public\class-link-juice-optimizer-public.php
+on line
+345
+
+
+Warning
+: SimpleXMLElement::__construct(): dad/" rel="nofollow noopener noreferrer" >Política Privacidad Ofuscada<br></a> in
+C:\program_files\laragon\www\Plantilla\wp-content\plugins\link-juice-optimizer\public\class-link-juice-optimizer-public.php
+on line
+345
+
+
+Warning
+: SimpleXMLElement::__construct(): ^ in
+C:\program_files\laragon\www\Plantilla\wp-content\plugins\link-juice-optimizer\public\class-link-juice-optimizer-public.php
+on line
+345
+
+
+Fatal error
+: Uncaught Exception: String could not be parsed as XML in C:\program_files\laragon\www\Plantilla\wp-content\plugins\link-juice-optimizer\public\class-link-juice-optimizer-public.php:345 Stack trace: #0 C:\program_files\laragon\www\Plantilla\wp-content\plugins\link-juice-optimizer\public\class-link-juice-optimizer-public.php(345): SimpleXMLElement->__construct('<a id="link_tex...') #1 C:\program_files\laragon\www\Plantilla\wp-content\plugins\link-juice-optimizer\public\class-link-juice-optimizer-public.php(147): Link_Juice_Optimizer_Public->ljo_ofuscar_enlace('<a id="link_tex...') #2 C:\program_files\laragon\www\Plantilla\wp-content\plugins\link-juice-optimizer\public\class-link-juice-optimizer-public.php(648): Link_Juice_Optimizer_Public->ljo_content('<a id="link_tex...', true) #3 [internal function]: Link_Juice_Optimizer_Public->ljo_buffer_capture('<!-- END OF WP_...', 9) #4 C:\program_files\laragon\www\Plantilla\wp-content\plugins\link-juice-optimizer\public\class-link-juice-optimizer-public.php(667): ob_end in
+C:\program_files\laragon\www\Plantilla\wp-content\plugins\link-juice-optimizer\public\class-link-juice-optimizer-public.php
+on line
+345
